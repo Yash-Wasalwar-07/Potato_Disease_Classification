@@ -4,3 +4,6 @@ The vegetable Potato is quite familiar to all of us. After crops like rice and w
 
 
 ![PlantImage](https://github.com/Yash-Wasalwar-07/Potato_Disease_Classification/blob/main/plantimage.jpeg?raw=true)
+
+Below are some screenshots of the webapp developed : 
+
