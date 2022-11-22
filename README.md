@@ -7,3 +7,12 @@ The vegetable Potato is quite familiar to all of us. After crops like rice and w
 
 Below are some screenshots of the webapp developed : 
 
+1). User needs to upload an image of single potato leaf, by clicking on the "browse files" button.
+
+![Webapp1](https://github.com/Yash-Wasalwar-07/Potato_Disease_Classification/blob/main/webapp1.png?raw=true)
+
+2). After uploading the image, user will get to know about the leaf, whether it is healthy or not, with the confidence rate.
+
+![Webapp2](https://github.com/Yash-Wasalwar-07/Potato_Disease_Classification/blob/main/webapp2.png?raw=true)
+
+
