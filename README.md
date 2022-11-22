@@ -15,4 +15,6 @@ Below are some screenshots of the webapp developed :
 
 ![Webapp2](https://github.com/Yash-Wasalwar-07/Potato_Disease_Classification/blob/main/webapp2.png?raw=true)
 
+You can also view the webapp on: https://yash-wasalwar-07-potato-disease-classification-app-4s8b4f.streamlit.app
+
 
